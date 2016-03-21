@@ -1,0 +1,28 @@
+name: Second Hand store
+favicon: null
+layout_spectrum: 0.9221498626284301
+typography_spectrum: 0.5588029371574521
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2755238793324679
+  lightness: 0.6476295161992311
+  saturation: 0.8227836715523154
+  rhythmicContrast: 0.7062135762535036
+purpose: []
